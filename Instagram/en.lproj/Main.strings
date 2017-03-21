@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "Bl0-da-Snu"; */
+"Bl0-da-Snu.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FxS-cA-fpC"; */
+"FxS-cA-fpC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "WVw-2q-pCs"; */
+"WVw-2q-pCs.normalTitle" = "Sign In";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "X2f-xM-1dX"; */
+"X2f-xM-1dX.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "g5i-lm-kNe"; */
+"g5i-lm-kNe.normalTitle" = "Sign Up";
+
+/* Class = "UIViewController"; title = "Profile"; ObjectID = "gzu-ur-lzE"; */
+"gzu-ur-lzE.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Choose "; ObjectID = "p2o-cY-RaS"; */
+"p2o-cY-RaS.normalTitle" = "Choose ";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "u1A-zY-csM"; */
+"u1A-zY-csM.normalTitle" = "Sign Out";
+
+/* Class = "UIViewController"; title = "Create"; ObjectID = "vgf-Cm-uZs"; */
+"vgf-Cm-uZs.title" = "Create";
+
+/* Class = "UIViewController"; title = "Posts"; ObjectID = "yIL-Nz-Iyc"; */
+"yIL-Nz-Iyc.title" = "Posts";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "yLU-Pa-af8"; */
+"yLU-Pa-af8.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "yxp-Cx-RZm"; */
+"yxp-Cx-RZm.title" = "Item";
